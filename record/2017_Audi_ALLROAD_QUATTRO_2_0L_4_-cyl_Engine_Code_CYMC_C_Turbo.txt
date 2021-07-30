@@ -1,0 +1,117 @@
+Engine
+ENGINE OIL
+SAE 5W-40 MS Synthetic European Motor Oil
+(AFLQT-EA)
+$13.09 Retail Price (USD)
+SAE 5W-40 FS Synthetic European Motor Oil
+(EFMQT-EA)
+$10.19 Retail Price (USD)
+SAE 0W-40 FS Synthetic European Motor Oil
+(EFOQT-EA)
+$12.59 Retail Price (USD)
+Viscosity: 5W-40, 5W-30, 0W-40, 0W-30 (All TEMPS)
+If synthetic oil that meets the applicable Audi, Volkswagen oil quality standard with the recommended viscosity grade is not available in your area, be sure to use a viscosity grade suitable for the climate, season, and operating conditions that exist where the vehicle is used. Make sure the oil meets the Audi, Volkswagen oil quality standards listed.
+Capacity: 5.5 quarts. . . (with filter)After refill check oil level.
+Torque: N/A ft/lbs (Oil Drain Plug)
+OIL FILTER
+WIX Oil Filter
+(WL10024-EA)
+[1]
+$9.66 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 10.6 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 0CK....SL167
+No recommendations available
+Notes: For automatic portion.
+Capacity: 7 speed Auto Portion 0CK Total Fill 3.7 quarts
+7 speed Manual side 0CK Total Fill 4 quarts
+For Automatic Transmission: 0CK....SL168
+No recommendations available
+Notes: For manual portion.
+Capacity: 7 speed Auto Portion 0CK Total Fill 3.7 quarts
+7 speed Manual side 0CK Total Fill 4 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+W/ 0D3....GLSC8 All TEMPS....
+75W-90 Long Life Synthetic Gear Lube
+(FGRQT-EA)
+$16.89 Retail Price (USD)
+Notes: Audi/VW Part number G 052 145 A1 (500 ml), G 052 145 A2 (1 l), G 052 145 S2 (1 l). Note that G 052 145 A2 was superseded by the manufacturer with the G 052 145 S2.
+Capacity: With 0D3 Rear 1.9 pints
+W/ 0D2....SL008 All TEMPS....
+No recommendations available
+Capacity: With 0D2 Rear 1.7 pints
+W/ 0DB....SL139 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity: With 0DB Rear 1.3 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: U/K TRC....SL175
+No recommendations available
+Capacity: U/K TRC 1.7 pints
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 4 P/N B 000 750 M3
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

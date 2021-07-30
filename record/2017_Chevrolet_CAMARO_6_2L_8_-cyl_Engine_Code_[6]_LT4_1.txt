@@ -1,0 +1,135 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-30 Synthetic Motor Oil
+(ASLQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-30 Synthetic Motor Oil
+(XLFQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-30 Synthetic Motor Oil
+(OEFQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 0W-30 (Below -29)
+5W-30 (All TEMPS)
+Capacity: 10 quarts. . . (with filter)After refill check oil level.
+Torque: 18 ft/lbs (Oil Drain Plug)
+Notes: This specification has been updated from Dexos 1 (Dexos:2010) to Dexos1 Gen 2 (Dexos:2015)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K50-EA)
+$18.50 Retail Price (USD)
+WIX Oil Filter
+(WL10290-EA)
+[1]
+$9.62 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+LTCCInitial fill 2.1 quarts
+EngineInitial fill 11 quarts
+IntercoolerInitial fill 4.5 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: TR6060 GLS37 All TEMPS
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: TR6060 10.4 pintsWith oil cooler.
+TR6060 7.4 pintsWithout oil cooler.
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 10R90....ULV
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+Capacity: 10 speed With O Cooler 10R90 Total Fill 12 quarts
+10 speed With Cooler 10R90 Total Fill 13.5 quarts
+8.7 quarts Initial Fill
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+ELSD Module....AF6 All TEMPS....
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: ELSD Module Rear 0.2 pints
+Limited Slip Differential, ZL1 Convertible....GLS25 All TEMPS....
+No recommendations available
+Capacity: ZL1 Convertible Rear 2.3 pints
+Limited Slip Differential, ZL1 Coupe....GLS25 All TEMPS....
+No recommendations available
+Capacity: ZL1 Coupe Rear 3.2 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 19299818 has been replaced by P/N 19353126.
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 19299818 has been replaced by P/N 19353126.
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

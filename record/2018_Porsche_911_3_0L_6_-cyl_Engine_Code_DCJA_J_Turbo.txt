@@ -1,0 +1,96 @@
+Engine
+ENGINE OIL
+SAE 5W-40 MS Synthetic European Motor Oil
+(AFLQT-EA)
+$13.09 Retail Price (USD)
+SAE 5W-40 FS Synthetic European Motor Oil
+(EFMQT-EA)
+$10.19 Retail Price (USD)
+SAE 0W-40 FS Synthetic European Motor Oil
+(EFOQT-EA)
+$12.59 Retail Price (USD)
+Viscosity: 5W-40 (All TEMPS)
+Capacity: 8.5 quarts. . . (with filter)After refill check oil level.
+Torque: Oil Drain Plug...NS ft/lbsPlastic drain plug. Tighten by hand until plug locks and engages.
+OIL FILTER
+No recommendations available
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+<IF>
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: PDK....SL086
+100% Synthetic DCT Fluid
+(DCTQT-EA)
+$24.09 Retail Price (USD)
+Notes: The PDK transmission has two different oil supplies and types. The Automatic Transmission chamber is filled with Pentosin FFL-3 Hydraulic oil, Porsche P/N 000 043 207 29 (1 liter), or 000 043 207 30 (20 Liter) for clutch actuation and gearshifting.
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+PDK....SL066 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity: PDK Rear 7 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Use DOT 4 brake fluid P/N 000 043 305 52 (1 Liter container)
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

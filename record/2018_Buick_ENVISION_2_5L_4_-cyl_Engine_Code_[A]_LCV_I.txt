@@ -1,0 +1,101 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-20 Synthetic Motor Oil
+(ALMQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-20 Synthetic Motor Oil
+(XLMQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-20 Synthetic Motor Oil
+(OEMQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-20, 0W-20 (All TEMPS)
+SAE 5W-20 is preferred.
+Capacity: 5 quarts. . . (with filter). FWDAfter refill check oil level.
+6 quarts. . . (with filter). AWDAfter refill check oil level.
+Torque: 18 ft/lbs (Oil Drain Plug)
+Notes: This specification has been updated from Dexos 1 (Dexos:2010) to Dexos1 Gen 2 (Dexos:2015)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K50-EA)
+$18.50 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 7 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+No recommendations available
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+Differential....GLS25 All TEMPS....
+No recommendations available
+Capacity: Differential Rear 1.5 pints
+DIFF CLTCH....PS006 All TEMPS....
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+Capacity: DIFF CLTCH Rear 0.8 pintsDifferential clutch is serviced separately from differential
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Use DOT 4 Hydraulic Brake Fluid P/N 19299570. or equivalent.
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

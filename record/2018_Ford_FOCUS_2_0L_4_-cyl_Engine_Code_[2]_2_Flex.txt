@@ -1,0 +1,114 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-20 Synthetic Motor Oil
+(ALMQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-20 Synthetic Motor Oil
+(XLMQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-20 Synthetic Motor Oil
+(OEMQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-20 (Above -29)
+To improve cold start in extreme climates where the ambient temperature is -22 F (-30 C) or below use 0W-20 oil meeting WSS-M2C947-A.
+Capacity: 4.5 quarts. . . (with filter)After refill check oil level.
+Torque: 20 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K51-EA)
+[1]
+$19.05 Retail Price (USD)
+WIX Oil Filter
+(51348-EA)
+[2]
+$9.86 Retail Price (USD)
+(1) Replaces the Ea15k33, which will still work for this vehicle
+(2) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(49017-EA)
+$26.91 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 9 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: MTX75 (5-SPD) SL026 All TEMPS
+100% Synthetic DCT Fluid
+(DCTQT-EA)
+$24.09 Retail Price (USD)
+Capacity: MTX75 (5-SPD) 3.6 pints
+Torque: 26 ft/lbs (Manual Transmission Drain Plug)
+26 ft/lbs (Manual Transmission Fill Plug)
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: DPS6....SL026
+100% Synthetic DCT Fluid
+(DCTQT-EA)
+$24.09 Retail Price (USD)
+Capacity: 6 speed DPS6 Total Fill 1.8 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+No recommendations available
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Motorcraft DOT 4 LV High Performance Brake Fluid P/N PM-20 or equivalent meeting WSS-M6C65-A2 or ISO 4925 class 6.
+CLUTCH FLUID
+Recommended For: HBH
+No recommendations available
+Notes: Motorcraft DOT 4 LV High Performance Brake Fluid P/N PM-20 or equivalent meeting WSS-M6C65-A2 or ISO 4925 class 6.
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

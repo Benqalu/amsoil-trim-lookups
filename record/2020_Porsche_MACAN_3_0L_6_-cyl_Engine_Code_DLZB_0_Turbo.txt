@@ -1,0 +1,98 @@
+Engine
+ENGINE OIL
+SAE 0W-20 LS-VW Synthetic European Motor Oil
+(EZTQT-EA)
+$13.09 Retail Price (USD)
+Viscosity: 0W-20 (All TEMPS)
+Capacity: 7.9 quarts. . . (with filter)After refill check oil level.
+Torque: 22 ft/lbs (Oil Drain Plug)
+OIL FILTER
+No recommendations available
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+<IF>
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: PDK....SL159
+No recommendations available
+Capacity: 7 speed PDK Total Fill 7.4 quarts
+6.9 quarts Initial Fill
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+Standard Differential, GLSC0 All TEMPS....
+No recommendations available
+Capacity: Front 8.7 pints
+REAR
+W/ Lock....GLSC2 All TEMPS....
+No recommendations available
+Capacity:
+Capacity: With Lock Rear 3.2 pints
+W/O Lock....GLSG1 All TEMPS....
+No recommendations available
+Capacity:
+Capacity: With O Lock Rear 2.5 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: U/K TRC....GLS87
+No recommendations available
+Capacity: U/K TRC 1.3 pints
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Use Low viscosity Class 6 DOT 4 brake fluid P/N 000 043 210 82 (1 Liter container)
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

@@ -1,0 +1,162 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-20 Synthetic Motor Oil
+(ALMQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-20 Synthetic Motor Oil
+(XLMQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-20 Synthetic Motor Oil
+(OEMQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-20 (All TEMPS)
+Capacity: 7 quarts. . . (with filter)After refill check oil level.
+Torque: 20 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K50-EA)
+$18.50 Retail Price (USD)
+WIX Oil Filter
+(57060-EA)
+[1]
+$9.87 Retail Price (USD)
+Donaldson P-Series Lube Filters
+(P550794-EA)
+$10.62 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(49756-EA)
+[1]
+$33.86 Retail Price (USD)
+(1) Standard Version
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+With O TTInitial fill 15.4 quarts
+With TTInitial fill 16.1 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 8HP70....SL076
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 8 speed 8HP70 Total Fill 8.8 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+195FIA....GL-5 All TEMPS....75W-85
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Synthetic oil is required.
+Capacity: 195FIA Front 1.9 pints
+REAR
+195RIA....GL-5 All TEMPS....75W-85
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Synthetic oil is required.
+Capacity: 195RIA Rear 1.9 pints
+230RIA W/O ELSD....GL-5 All TEMPS....75W-85
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Synthetic oil is required.
+Capacity: 230RIA With O ELSD Rear 2.3 pints
+230RIA W/ ELSD....GL-5* All TEMPS....75W-85
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Use Mopar Gear and Axle Lubricant 75W-85 with modifier, P/N 68083381AA.
+Capacity: 230RIA With ELSD Rear 2.7 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: MP3023....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: Mopar ATF+4 P/N 05013457AA
+Capacity: MP3023 4 pints
+For Transfer Case: MP2010....SL072
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+Capacity: MP2010 1.1 pints
+Torque: 16-21 ft/lbs (Transfer Case Drain Plug)
+16-21 ft/lbs (Transfer Case Fill Plug)
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3 P/N 04318080AC, meeting MS-4574
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

@@ -1,0 +1,155 @@
+Engine
+ENGINE OIL
+SAE 5W-40 MS Synthetic European Motor Oil
+(AFLQT-EA)
+$13.09 Retail Price (USD)
+SAE 5W-30 LS Synthetic European Motor Oil
+(AELQT-EA)
+$15.29 Retail Price (USD)
+Viscosity: 0W-30, 0W-40 (All TEMPS)
+10W-30, 10W-40, 10W-50, 10W-60 (Above -20)
+15W-30, 15W-40, 15W-50 (Above -15)
+20W-40, 20W-50 (Above -5)
+5W-30, 5W-40, 5W-50 (Above -25)
+Capacity: 8.5 quarts. . . (with filter)After refill check oil level.
+Torque: Plastic - 3 ft/lbs (Oil Drain Plug)
+M14 Bolt - 22 ft/lbs (Oil Drain Plug)
+24 MM Plug - 33 ft/lbs (Oil Drain Plug)
+OIL FILTER
+WIX Oil Filter
+(57062-EA)
+[1]
+$9.66 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 12.2 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 722.903....SL057
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: Without code A89 (Reduced-Fricion) on datacard. Fluid is Red in color.
+Capacity: 7 speed 722.903 Total Fill 9.5 quarts
+For Automatic Transmission: 722.903....SL058
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: With A89 code (Reduced-Friction) on datacard. Fluid is Blue in color.
+Capacity: 7 speed 722.903 Total Fill 9.5 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+GLS49 All TEMPS....
+No recommendations available
+Capacity: Front 2.3 pints
+REAR
+W/ 187 mm RG....GLS49 All TEMPS....
+No recommendations available
+Capacity:
+Capacity: With 187 mm RG Rear 2.1 pints
+W/200 mm RG....GLS49 All TEMPS....
+No recommendations available
+Capacity:
+Capacity: With 200 mm RG Rear 2.3 pints
+W/215 mm RG....GLS49 All TEMPS....
+No recommendations available
+Capacity:
+Capacity: With 215 mm RG Rear 2.5 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: Double speed....SL055
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: Double speed 3.2 pints
+For Transfer Case: Single speed....SL055
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: Single speed 1.1 pints
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Use DOT 4 plus, P/N 000989080701 or products approved on MB Sheet 331.0.
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+BYPASS FILTERS
+Bypass Oil Filters
+FUEL TREATMENT
+Diesel Injector Clean
+(ADF)
+FUEL TREATMENT
+Diesel Cetane Boost
+(ACB)
+FUEL TREATMENT
+Diesel Injector Clean + Cetane Boost
+(ADS)
+FUEL TREATMENT
+Diesel Cold Flow
+(ADD)
+FUEL TREATMENT
+Diesel All-In-One
+(ADB)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+>
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

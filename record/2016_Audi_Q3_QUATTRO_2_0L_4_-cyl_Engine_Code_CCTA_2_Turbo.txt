@@ -1,0 +1,122 @@
+Engine
+ENGINE OIL
+SAE 5W-40 MS Synthetic European Motor Oil
+(AFLQT-EA)
+$13.09 Retail Price (USD)
+SAE 5W-40 FS Synthetic European Motor Oil
+(EFMQT-EA)
+$10.19 Retail Price (USD)
+SAE 0W-40 FS Synthetic European Motor Oil
+(EFOQT-EA)
+$12.59 Retail Price (USD)
+Viscosity: 5W-40, 5W-30, 0W-40, 0W-30 (All TEMPS)
+If synthetic oil that meets the applicable Audi, Volkswagen oil quality standard with the recommended viscosity grade is not available in your area, be sure to use a viscosity grade suitable for the climate, season, and operating conditions that exist where the vehicle is used. Make sure the oil meets the Audi, Volkswagen oil quality standards listed.
+Capacity: 4.8 quarts. . . (with filter)After refill check oil level.
+Torque: Plastic - N/A ft/lbs (Oil Drain Plug) With plastic oil drain plug turn by hand to remove plug, coat O-ring wil oil tighten all the way till seated.
+Steel Pan - 22 ft/lbs (Oil Drain Plug) Replace drain plug seal.
+OIL FILTER
+AMSOIL Oil Filter
+(EAO55-EA)
+$33.35 Retail Price (USD)
+MANN-FILTERS Oil Filters
+(W71945-EA)
+$17.44 Retail Price (USD)
+AIR FILTER
+WIX Air Filter
+(49020-EA)
+$26.80 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 10.6 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 09M....TIV
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: Audi/VW Part number G 055 025 (A2).
+Capacity: 6 speed 09M Total Fill 7.4 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+09M....GLSC8 All TEMPS....
+75W-90 Long Life Synthetic Gear Lube
+(FGRQT-EA)
+$16.89 Retail Price (USD)
+Notes: Audi/VW Part number G 052 145 A1 (500 ml), G 052 145 A2 (1 l), G 052 145 S2 (1 l). Note that G 052 145 A2 was superseded by the manufacturer with the G 052 145 S2.
+Capacity: 09M Rear 1.9 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: Haldex Clutch....GLSB9
+No recommendations available
+Capacity: Haldex Clutch 1.5 pints
+For Transfer Case: Bevel Box....GLSC8
+75W-90 Long Life Synthetic Gear Lube
+(FGRQT-EA)
+$16.89 Retail Price (USD)
+Notes: Audi/VW Part number G 052 145 A1 (500 ml), G 052 145 A2 (1 l), G 052 145 S2 (1 l). Note that G 052 145 A2 was superseded by the manufacturer with the G 052 145 S2.
+Capacity: Bevel Box 1.9 pints
+Torque: 22 ft/lbs (Transfer Case Drain Plug)
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 4 P/N B 000 750 M3
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

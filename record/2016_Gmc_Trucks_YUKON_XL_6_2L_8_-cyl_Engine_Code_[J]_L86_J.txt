@@ -1,0 +1,141 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 0W-20 Synthetic Motor Oil
+(ASMQT-EA)
+$14.19 Retail Price (USD)
+XL 0W-20 Synthetic Motor Oil
+(XLZQT-EA)
+$11.19 Retail Price (USD)
+OE 0W-20 Synthetic Motor Oil
+(OEZQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 0W-20 (All TEMPS)
+Capacity: 8 quarts. . . (with filter)After refill check oil level.
+Torque: 18 ft/lbs (Oil Drain Plug)
+Notes: This specification has been updated from Dexos 1 (Dexos:2010) to Dexos1 Gen 2 (Dexos:2015)
+OIL FILTER
+AMSOIL Oil Filter
+(EAO17-EA)
+$19.30 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 17.4 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 8L90....SL150
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+Capacity: 8 speed With Cooler 8L90 Total Fill 11.4 quarts
+8 speed Trans Only 8L90 Total Fill 10.9 quarts
+7.4 quarts Initial Fill
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+8.25 RG....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity: 8.25 RG Front 3 pints
+REAR
+8.6 RG....GL-5 All TEMPS....75W-85
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Synthetic axle lubricant GM P/N 19300457.
+Capacity: 8.6 RG Rear 4.2 pints
+9.5 RG....GL-5 All TEMPS....75W-85
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Synthetic axle lubricant GM P/N 19300457.
+Capacity: 9.5 RG Rear 5.5 pints
+9.76 RG....GL-5 All TEMPS....75W-85
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Synthetic axle lubricant GM P/N 19300457.
+Capacity: 9.76 RG Rear 5.5 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: MP3010-NP0....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: MP3010-NP0 3.2 pintsIdentification: check tag on case.
+Torque: 13 ft/lbs (Transfer Case Fill Plug)
+13 ft/lbs (Transfer Case Drain Plug)
+For Transfer Case: MP3023, 24....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: MP3023, 24 3.2 pintsIdentification: check tag on case.
+Other Fluids
+POWER STEERING FLUID
+No recommendations available
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 19299818 has been replaced by P/N 19353126.
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

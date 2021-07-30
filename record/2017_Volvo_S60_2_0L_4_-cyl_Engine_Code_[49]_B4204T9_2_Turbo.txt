@@ -1,0 +1,105 @@
+Engine
+ENGINE OIL
+SAE 0W-20 LS Synthetic European Motor Oil
+(AFEQT-EA)
+$12.29 Retail Price (USD)
+Viscosity: 0W-20 (All TEMPS)
+Recommendation has been updated per Volvo SMB-005 SMB22-005-2020-01-23
+Capacity: 6.2 quarts. . . (with filter)After refill check oil level.
+Torque: 28 ft/lbs (Oil Drain Plug) Replace drain plug seal.
+Notes: Synthetic oil is required.
+OIL FILTER
+No recommendations available
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 8.8 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: TG-81SC....SL106
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 6 speed TG-81SC Total Fill 7 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+GLSD6 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: AOC....GLS77
+No recommendations available
+Capacity: AOC After filling, fluid must be allowed to escape the fill plug until a continuous flow changes into single drops.
+Torque: (Transfer Case Drain Plug)
+26 ft/lbs (Transfer Case Fill Plug)
+For Transfer Case: AWD Bevel Gear....GLS78
+No recommendations available
+Capacity: AWD Bevel Gear After filling, fluid must be allowed to escape the fill plug until a continuous flow changes into single drops.
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS026
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid DOT 4, Volvo P/N 9437 433
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)
