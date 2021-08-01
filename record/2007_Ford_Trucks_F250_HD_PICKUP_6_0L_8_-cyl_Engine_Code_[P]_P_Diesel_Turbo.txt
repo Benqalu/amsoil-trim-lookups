@@ -1,0 +1,229 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series Max-Duty Synthetic Diesel Oil 15W-40
+(DMEQT-EA)
+$12.79 Retail Price (USD)
+Heavy-Duty Synthetic Diesel Oil 15W-40
+(ADPQT-EA)
+$9.19 Retail Price (USD)
+Viscosity: 0W-30 (-29 To -18)
+Ford TSB 05-16-6 states that the shown viscosity is acceptable to use in the shown temperature range.
+10W-30 (-23 To 32)
+Ford TSB 05-16-6 states that SAE 10W-30 is acceptable to use in operating temperatures from -1 C (31 F) to 32 C (90 F).SAE 10W-30 is the preferred viscosity if the operating varies from -20 C (-4 F) to -1 C (31 F).
+15W-40 (Above -12)
+Ford TSB 05-16-6 states that SAE 15W-40 is acceptable to use in operating temperatures from -12 C (11 F) to -1 C (31 F). SAE 15W-40 is the preferred viscosity if the operating is above -1 C (31 F).
+5W-30, 5W-40 (-29 To -1)
+Ford TSB 05-16-6 states that the shown viscosity is acceptable to use in the shown temperature range.
+Capacity: 14.9 quarts. . . (with filter)When refilling, remove dipstick to provide adequate venting and allow oil to flow into crankcase. After refill, check oil level. Top off to proper level as needed.
+Torque: 32 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K88-EA)
+[1]
+$40.40 Retail Price (USD)
+AMSOIL SDF88 Oil Filter
+(SDF88-EA)
+$26.55 Retail Price (USD)
+(1) Filter element only.
+AIR FILTER
+WIX Air Filter
+(49490-EA)
+[1]
+$60.82 Retail Price (USD)
+(1) Use If Original Equipment Housing Has Been Converted to Panel Style Air Filter
+FUEL FILTER
+Fuel Filter for Ford 6.0L Diesel Powerstroke Truck Applications
+(FFK60-EA)
+$75.15 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 27.5 quarts Includes heater and 5.0 qt (4.7L) in coolant recovery
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: S6-650 (6-SPD)....MA All TEMPS....
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: S6-650 (6-SPD) 11.6 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 5R110W....MLV
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: The recommendation has been updated from MSP to MLV per Ford Special Service Message 21114 which states the following: All 2003-2008 F-Super Duty, 2003-2005 Excursion, 2004-2008 E-series and 2006-2008 LCF vehicles equipped with a torqshift automatic transmission should be serviced with Mercon LV automatic transmission fluid in place of Mercon SP. This includes top off as well as fluid replacement. Mixing Mercon LV and Mercon SP in the torqshift automatic transmission is acceptable. When adding or replacing transmission fluid in a vehicle with a torqshift automatic transmission, use Mercon LV fluid.
+Capacity: 5 speed 5R110W Total Fill 19 quarts
+7.5 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Transmission Filter
+(57702-EA)
+[1]
+$32.64 Retail Price (USD)
+WIX Transmission Filter
+(58624-EA)
+[2]
+$33.97 Retail Price (USD)
+(1) By-Pass Filter
+(2) To 5/20/2007; 5R110W (TransmissionMfrCode)
+Differential
+FRONT
+GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Front 6.3 pints
+REAR
+Standard Differential, Dana 80 W/O LSD....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+75W-90 Long Life Synthetic Gear Lube
+(FGRQT-EA)
+$16.89 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: Dana 80 With O LSD Rear 8.5 pints
+Standard Differential, Dana S110....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: Dana S110 Rear 16.1 pints
+Standard Differential, Dana S130....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: Dana S130 Rear 16.1 pints
+Standard Differential, Ford 10.5 RG....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Limited Slip Differential, Dana 80 W/ LSD....GL-5* All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: Dana 80 With LSD Rear 8 pints
+Limited Slip Differential, Ford 10.5 RG....GL-5* All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: Ford 10.5 RG Rear 7 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: U/K TRC....MLV
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Motorcraft P/N XL-12 to Mercon LV.
+Capacity: U/K TRC 4 pints
+Other Fluids
+POWER STEERING FLUID
+Recommended For: MA5
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: MERCON V Automatic Transmission Fluid
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Motorcraft High Performance DOT 3 brake fluid, P/N PM-1-C or equivalent meeting Ford specification WSS-M6C65-A1.
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3
+Additional AMSOIL Products
+BYPASS FILTERS
+Bypass Oil Filters
+FUEL TREATMENT
+Diesel Injector Clean
+(ADF)
+FUEL TREATMENT
+Diesel Cetane Boost
+(ACB)
+FUEL TREATMENT
+Diesel Injector Clean + Cetane Boost
+(ADS)
+FUEL TREATMENT
+Diesel Cold Flow
+(ADD)
+FUEL TREATMENT
+Diesel All-In-One
+(ADB)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+>
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

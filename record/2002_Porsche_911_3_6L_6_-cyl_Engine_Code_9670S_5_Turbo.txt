@@ -1,0 +1,130 @@
+Engine
+ENGINE OIL
+SAE 5W-40 MS Synthetic European Motor Oil
+(AFLQT-EA)
+$13.09 Retail Price (USD)
+SAE 5W-40 FS Synthetic European Motor Oil
+(EFMQT-EA)
+$10.19 Retail Price (USD)
+SAE 0W-40 FS Synthetic European Motor Oil
+(EFOQT-EA)
+$12.59 Retail Price (USD)
+Viscosity: 0W-40 (All TEMPS)
+5W-40, 5W-50 (Above -25)
+Capacity: 9.2 quarts. . . (with filter)Let engine rest for 20 minutes to obtain accurate level on dipstick.Turbo models have no dipstick, use electronic display on instrument panel.Oil capacity in owner manual may differ from amount listed. In such case's use amount listed in owners manual.
+Torque: 37 ft/lbs (Oil Drain Plug) Oil tank drain, 37 foot pounds. When changing oil, remove crankcase and oil tank drain plugs
+OIL FILTER
+No recommendations available
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 30.1 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: G96/50 (6-SPD)....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G96/50 (6-SPD) 8 pintsExcept GT2 - Total capacity
+G96/50 (6-SPD) 6.3 pintsExcept GT2 - Refill capacity
+For Manual Transmission: G96/88 (6-SPD) GL-5 All TEMPS 75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G96/88 (6-SPD) 8 pintsGT2
+AUTOMATIC TRANSMISSION FLUID
+No recommendations available
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+GLS58 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity: Front 3.2 pintsFront differential is for 4WD models only.
+Notes: Front differential is for 4WD models only.
+REAR
+W/ AT....GLS58 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity:
+Notes: Final drive for Automatic transmission only.
+Capacity: With AT Rear 2.5 pintsFinal drive for Automatic transmission only.
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS005
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+Notes: Original recommendation of Pentosin CHF 11S has been superseded with Pentosin CHF 202
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Use DOT 4 brake fluid P/N 000 043 305 52 (1 Liter container)
+CLUTCH FLUID
+Recommended For: HBH
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 4 TYPE 200
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

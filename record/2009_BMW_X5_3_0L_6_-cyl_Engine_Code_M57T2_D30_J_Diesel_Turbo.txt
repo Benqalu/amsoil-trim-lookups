@@ -1,0 +1,167 @@
+Engine
+ENGINE OIL
+SAE 5W-30 LS Synthetic European Motor Oil
+(AELQT-EA)
+$15.29 Retail Price (USD)
+SAE 5W-40 MS Synthetic European Motor Oil
+(AFLQT-EA)
+$13.09 Retail Price (USD)
+Viscosity: 5W-30 (All TEMPS)
+Capacity: 7.7 quarts. . . (with filter)After refill check oil level.
+Torque: M18x1.5 - 26 ft/lbs (Oil Drain Plug)
+M22x1.5 - 45 ft/lbs (Oil Drain Plug)
+M12x1.5 - 19 ft/lbs (Oil Drain Plug)
+OIL FILTER
+MANN-FILTERS Oil Filters
+(HU7214x-EA)
+$31.69 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 11.2 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: GA6HP19Z....SL095
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 6 speed GA6HP19Z Total Fill 9.5 quarts
+For Automatic Transmission: GA6HP26Z....SL095
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 6 speed GA6HP26Z Total Fill 10 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+Limited Slip Differential, GLS23 All TEMPS....
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Front 1.3 pints
+Standard Differential, GLSG8 All TEMPS....
+No recommendations available
+Capacity:
+REAR
+Limited Slip Differential, W/O Dynamic Unit....GLS23 All TEMPS....
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Limited Slip Differential, Left Dynamic Unit....GLS60 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity:
+Notes: Dynamic Performance Type Axle. Right and left Dynamic Units require special lubricant that is different then that used in center unit. Do Not intermix
+Capacity: Left Dynamic Unit Rear 1.1 pintsDynamic Performance Type Axle. Right and left Dynamic Units require special lubricant that is different then that used in center unit. Do Not intermix
+Limited Slip Differential, Right Dynamic Unit....GLS60 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity:
+Notes: Dynamic Performance Type Axle. Right and left Dynamic Units require special lubricant that is different then that used in center unit. Do Not intermix
+Capacity: Right Dynamic Unit Rear 1.1 pintsDynamic Performance Type Axle. Right and left Dynamic Units require special lubricant that is different then that used in center unit. Do Not intermix
+Standard Differential, Center Unit Only....GLSF1 All TEMPS....
+No recommendations available
+Capacity:
+Notes: Dynamic Performance Type Axle. Right and left Dynamic Units require special lubricant that is different then that used in center unit. Do Not intermix
+Capacity: Center Unit Only Rear 2.1 pintsDynamic Performance Type Axle. Right and left Dynamic Units require special lubricant that is different then that used in center unit. Do Not intermix
+Standard Differential, W/O Dynamic Unit....GLSF1 All TEMPS....
+No recommendations available
+Capacity:
+Capacity: With O Dynamic Unit Rear 3.4 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: ATC700....GLSE4
+No recommendations available
+Capacity: ATC700 1.7 pints
+Other Fluids
+POWER STEERING FLUID
+Recommended For: W/ AS/ARS......PS006
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+Recommended For: W/O AS/ARS......AF3
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+[1]
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+[1]
+$10.59 Retail Price (USD)
+Notes: Models with combined power steering, hydraulic brake booster and self leveling suspension refer to label on top of reservoir for proper fluid recommendation.
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Use BMW P/N 81 22 0 142 156 (12 oz.) or BMW P/N 81 22 0 142 155 (1 gallon). If unavailable, use a low viscosity DOT 4 brake fluid.
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+BYPASS FILTERS
+Bypass Oil Filters
+FUEL TREATMENT
+Diesel Injector Clean
+(ADF)
+FUEL TREATMENT
+Diesel Cetane Boost
+(ACB)
+FUEL TREATMENT
+Diesel Injector Clean + Cetane Boost
+(ADS)
+FUEL TREATMENT
+Diesel Cold Flow
+(ADD)
+FUEL TREATMENT
+Diesel All-In-One
+(ADB)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+>
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

@@ -1,0 +1,124 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series Max-Duty Synthetic Diesel Oil 15W-40
+(DMEQT-EA)
+$12.79 Retail Price (USD)
+Heavy-Duty Synthetic Diesel Oil 15W-40
+(ADPQT-EA)
+$9.19 Retail Price (USD)
+Viscosity: 0W-30 (-29 To -18)
+Ford TSB 05-16-6 states that the shown viscosity is acceptable to use in the shown temperature range.
+10W-30 (-23 To 32)
+Ford TSB 05-16-6 states that SAE 10W-30 is acceptable to use in operating temperatures from -1 C (31 F) to 32 C (90 F).SAE 10W-30 is the preferred viscosity if the operating varies from -20 C (-4 F) to -1 C (31 F).
+15W-40 (Above -12)
+Ford TSB 05-16-6 states that SAE 15W-40 is acceptable to use in operating temperatures from -12 C (11 F) to -1 C (31 F). SAE 15W-40 is the preferred viscosity if the operating is above -1 C (31 F).
+5W-30, 5W-40 (-29 To -1)
+Ford TSB 05-16-6 states that the shown viscosity is acceptable to use in the shown temperature range.
+Capacity: 15 quarts. . . (with filter)After refill check oil level.
+Torque: 32 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K88-EA)
+[1]
+$40.40 Retail Price (USD)
+AMSOIL SDF88 Oil Filter
+(SDF88-EA)
+$26.55 Retail Price (USD)
+(1) Filter element only.
+AIR FILTER
+WIX Air Filter
+(49490-EA)
+[1]
+$60.82 Retail Price (USD)
+PowerCore®Filter For Ford 6.0L Diesel PowerStroke
+(P603577-EA)
+[2]
+$112.80 Retail Price (USD)
+(1) Use If Original Equipment Housing Has Been Converted to Panel Style Air Filter
+(2) Standard Powercore Version
+CABIN AIR FILTER
+WIX Cabin Air Filters
+(24876-EA)
+[1]
+$29.02 Retail Price (USD)
+(1) Optional Filter - If Cabin Air Kit Installed By Dealership
+FUEL FILTER
+Fuel Filter for Ford 6.0L Diesel Powerstroke Truck Applications
+(FFK60-EA)
+$75.15 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 27.5 quarts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional AMSOIL Products
+BYPASS FILTERS
+Bypass Oil Filters
+FUEL TREATMENT
+Diesel Injector Clean
+(ADF)
+FUEL TREATMENT
+Diesel Cetane Boost
+(ACB)
+FUEL TREATMENT
+Diesel Injector Clean + Cetane Boost
+(ADS)
+FUEL TREATMENT
+Diesel Cold Flow
+(ADD)
+FUEL TREATMENT
+Diesel All-In-One
+(ADB)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+>
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

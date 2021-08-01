@@ -1,0 +1,116 @@
+Engine
+ENGINE OIL
+SAE 5W-40 FS Synthetic European Motor Oil
+(EFMQT-EA)
+$10.19 Retail Price (USD)
+SAE 0W-40 FS Synthetic European Motor Oil
+(EFOQT-EA)
+$12.59 Retail Price (USD)
+Viscosity: 0W-30, 0W-40 (All TEMPS)
+10W-30, 10W-40, 10W-50, 10W-60 (Above -20)
+15W-40, 15W-50 (Above -15)
+20W-40, 20W-50 (Above -5)
+5W-30, 5W-40, 5W-50 (Above -25)
+Capacity: 8.5 quarts. . . (with filter)On models with oil cooler, additional oil may be needed when cooler is drained. Allow 5 minutes after refilling or turning engine off before checking oil level.
+Torque: 20 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K39-EA)
+$26.55 Retail Price (USD)
+WIX Oil Filter
+(51226-EA)
+[1]
+$19.23 Retail Price (USD)
+MANN-FILTERS Oil Filters
+(HU7185x-EA)
+$19.24 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 10 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: 716.6 (6-SPD)....GLS45 All TEMPS....
+No recommendations available
+Capacity: 716.6 (6-SPD) 3.2 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 722.6....SL057
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 5 speed 722.6 Total Fill 8.5 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+GLS49 All TEMPS....
+No recommendations available
+Capacity: Rear 2.7 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS015
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Use DOT 4 plus, P/N 000989080701 or products approved on MB Sheet 331.0.
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

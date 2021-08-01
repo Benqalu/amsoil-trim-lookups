@@ -1,0 +1,156 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-30 Synthetic Motor Oil
+(ASLQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-30 Synthetic Motor Oil
+(XLFQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-30 Synthetic Motor Oil
+(OEFQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-30 (All TEMPS)
+Capacity: 9 quarts. . . (with filter)After refill check oil level.
+Torque: V-Series - 18 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EAO11-EA)
+[1]
+$19.60 Retail Price (USD)
+WIX Oil Filter
+(51372-EA)
+[2]
+$10.09 Retail Price (USD)
+(1) Replaces the EaO48, which will still work for this vehicle
+(2) Manufacturer OE Recommended Oil Change Intervals; V (SubModel)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+RadiatorInitial fill 12.5 quarts
+IntercoolerInitial fill 2.6 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 6L80....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 6 speed 6L80 Total Fill 10.6 quarts
+6.6 quarts Initial Fill
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+Standard Differential, SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity: Front 2.1 pints
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic lubricant P/N 12378261 meeting GM Specification 9986115.
+REAR
+Limited Slip Differential, Drain plug removed....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity:
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic lubricant P/N 12378261 meeting GM Specification 9986115.
+Standard Differential, Drain plug removed....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity:
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic lubricant P/N 12378261 meeting GM Specification 9986115.
+Capacity: Drain plug removed Rear 2.1 pints
+Limited Slip Differential, cover removed....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity:
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic lubricant P/N 12378261 meeting GM Specification 9986115.
+Standard Differential, cover removed....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Capacity:
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic lubricant P/N 12378261 meeting GM Specification 9986115.
+Capacity: Rear cover removed Rear 2.5 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: BW4479....GLS37
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: BW4479 1.1 pints
+Torque: 14-22 ft/lbs (Transfer Case Drain Plug)
+14-22 ft/lbs (Transfer Case Fill Plug)
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS004
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 12377967 has been replaced by P/N 19353126.
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

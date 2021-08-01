@@ -1,0 +1,332 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-30 Synthetic Motor Oil
+(ASLQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-30 Synthetic Motor Oil
+(XLFQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-30 Synthetic Motor Oil
+(OEFQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-30 (All TEMPS)
+Capacity: 4.8 quarts. . . (with filter)After refill check oil level.
+Torque: 30 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K51-EA)
+[1]
+$19.05 Retail Price (USD)
+WIX Oil Filter
+(51348-EA)
+[2]
+$9.86 Retail Price (USD)
+(1) Replaces the Ea15k33, which will still work for this vehicle
+(2) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(46888-EA)
+$26.91 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 10.9 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: RA60 (6-SPD) GL-4 All TEMPS 75W-90
+Manual Transmission & Transaxle Gear Lube 75W-90
+(MTGPK-EA)
+$21.29 Retail Price (USD)
+Capacity: RA60 (6-SPD) 3.8 pints
+For Manual Transmission: RA60 (6-SPD) GL-5 All TEMPS 75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: RA60 (6-SPD) 3.8 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: A750F....WS
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 3.2 quarts Initial Fill
+5 speed A750F Total Fill 11 quarts
+For Automatic Transmission: A750E....WS
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 3.2 quarts Initial Fill
+5 speed A750E Total Fill 11 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+Standard Differential, GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: Front 2.3 pints
+REAR
+Standard Differential, DCAB W/O LSD....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: DCAB With O LSD Rear 8.5 pints
+Standard Differential, REGCAB-4WD W/O LSD....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: REGCAB-4WD With O LSD Rear 7.4 pints
+Standard Differential, REGCAB-RWD W/O LSD....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: REGCAB-RWD With O LSD Rear 8 pints
+Standard Differential, StdCab-4WD W/O LSD....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: STDCAB-4WD With O LSD Rear 7.4 pints
+Standard Differential, StdCab-RWD W/O LSD....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Synthetic oil is required.
+Capacity: STDCAB-RWD With O LSD Rear 8 pints
+Limited Slip Differential, DCAB W/ LSD....GL-5* Above -18....90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Capacity: DCAB With LSD Rear 7 pints
+Limited Slip Differential, DCAB W/ LSD....GL-5* Below -18....80W-90,80W
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Limited Slip Differential, REGCAB-4WD W/ LSD....GL-5* Above -18....90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Capacity: REGCAB-4WD With LSD Rear 5.9 pints
+Limited Slip Differential, REGCAB-4WD W/ LSD....GL-5* Below -18....80W-90,80W
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Limited Slip Differential, REGCAB-RWD W/ LSD....GL-5* Above -18....90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Limited Slip Differential, REGCAB-RWD W/ LSD....GL-5* Below -18....80W-90,80W
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Capacity: REGCAB-RWD With LSD Rear 6.8 pints
+Limited Slip Differential, StdCab-4WD W/ LSD....GL-5* Above -18....90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Capacity: STDCAB-4WD With LSD Rear 5.9 pints
+Limited Slip Differential, StdCab-4WD W/ LSD....GL-5* Below -18....80W-90,80W
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Limited Slip Differential, StdCab-RWD W/ LSD....GL-5* Above -18....90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Limited Slip Differential, StdCab-RWD W/ LSD....GL-5* Below -18....80W-90,80W
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Notes: Fill with oil designated for use in limited slip differentials.
+Capacity: STDCAB-RWD With LSD Rear 6.8 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: U/K TRC....GL-4
+Manual Transmission & Transaxle Gear Lube 75W-90
+(MTGPK-EA)
+$21.29 Retail Price (USD)
+Capacity: U/K TRC 2.1 pints
+For Transfer Case: U/K TRC....GL-5
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: U/K TRC 2.1 pints
+Other Fluids
+POWER STEERING FLUID
+Recommended For: AF3
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: DEXRON-III Automatic Transmission Fluid
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

@@ -1,0 +1,216 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-20 Synthetic Motor Oil
+(ALMQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-20 Synthetic Motor Oil
+(XLMQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-20 Synthetic Motor Oil
+(OEMQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-20 (All TEMPS)
+Capacity: 5 quarts. . . (with filter)After refill check oil level.
+Torque: 25 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EAO34-EA)
+$20.75 Retail Price (USD)
+WIX Oil Filter
+(51516-EA)
+[1]
+$9.94 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(42725-EA)
+[1]
+$36.30 Retail Price (USD)
+(1) Standard Version
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 17 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: GET238 (6-SPD) AP4 All TEMPS
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: GET238 (6-SPD) 4.6 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 545RFE 4WD....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 5 speed 545RFE 4WD Total Fill 16.9 quarts
+6.6 quarts Initial Fill
+For Automatic Transmission: 545RFE RWD....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 5 speed 545RFE RWD Total Fill 16.9 quarts
+5.5 quarts Initial Fill
+For Automatic Transmission: 42RLE....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 4 speed 42RLE Total Fill 8.8 quarts
+4 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Transmission Filter
+(58843-EA)
+[1]
+$63.61 Retail Price (USD)
+WIX Transmission Filter
+(58846-EA)
+[2]
+$64.21 Retail Price (USD)
+(1) Trans Mfr Code: 545RFE; Deep Pan Filter; 545RFE (TransmissionMfrCode)
+(2) Trans Mfr Code: 545RFE; Shallow Pan Filter; 545RFE (TransmissionMfrCode)
+Differential
+REAR
+Standard Differential, 9.25 W/O LSD....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Notes: Synthetic based oil.
+Capacity: 9.25 With O LSD Rear 4.6 pints
+Limited Slip Differential, 9.25 W/ LSD....GL-5* All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Notes: Synthetic based oil.
+Capacity: 9.25 With LSD Rear 4.4 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: NV241 GENII....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: NV241 GENII 3.4 pints
+For Transfer Case: NV243....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: NV243 3.4 pints
+For Transfer Case: NV244 GENII....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: NV244 GENII 3.4 pints
+For Transfer Case: NV271....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: NV271 4 pints
+For Transfer Case: NV273....AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: NV273 4 pints
+For Transfer Case: NV246....SL070
+No recommendations available
+Capacity: NV246 4 pints
+Other Fluids
+POWER STEERING FLUID
+Recommended For: AP4
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: ATF+4 Automatic Transmission Fluid, Mopar P/N 05013457AA, specification number MS9602
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3 P/N 04318080AC, meeting MS-4574
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3 P/N 04318080AC, meeting MS-4574
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

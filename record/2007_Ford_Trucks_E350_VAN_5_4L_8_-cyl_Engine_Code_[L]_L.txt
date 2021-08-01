@@ -1,0 +1,199 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-20 Synthetic Motor Oil
+(ALMQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-20 Synthetic Motor Oil
+(XLMQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-20 Synthetic Motor Oil
+(OEMQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-20 (All TEMPS)
+Capacity: 6 quarts. . . (with filter)When refilling, remove dipstick to provide adequate venting and allow oil to flow into crankcase. After refill, check oil level. Top off to proper level as needed.
+Torque: 10 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EAO11-EA)
+[1]
+$19.60 Retail Price (USD)
+WIX Oil Filter
+(51372-EA)
+[2]
+$10.09 Retail Price (USD)
+(1) Replaces the EaO48, which will still work for this vehicle
+(2) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(46418-EA)
+$29.26 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+With O RR HEATInitial fill 28.7 quarts
+With Rear HEATInitial fill 30.7 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 4R75E....MA5
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 4 speed 4R75E Total Fill 13.9 quarts
+5 quarts Initial Fill
+For Automatic Transmission: 5R110W....MLV
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: The recommendation has been updated from MSP to MLV per Ford Special Service Message 21114 which states the following: All 2003-2008 F-Super Duty, 2003-2005 Excursion, 2004-2008 E-series and 2006-2008 LCF vehicles equipped with a torqshift automatic transmission should be serviced with Mercon LV automatic transmission fluid in place of Mercon SP. This includes top off as well as fluid replacement. Mixing Mercon LV and Mercon SP in the torqshift automatic transmission is acceptable. When adding or replacing transmission fluid in a vehicle with a torqshift automatic transmission, use Mercon LV fluid.
+Capacity: 5 speed 5R110W Total Fill 19 quarts
+7.4 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Transmission Filter
+(57702-EA)
+[1]
+$32.64 Retail Price (USD)
+WIX Transmission Filter
+(58624-EA)
+[2]
+$33.97 Retail Price (USD)
+(1) By-Pass Filter
+(2) Trans Mfr Code: 5R110W; 5R110W (TransmissionMfrCode)
+Differential
+REAR
+Standard Differential, Dana 60-1U....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 60-1U Rear 5.9 pintsFill to no more than 1/4 to 9/16 inch below fill plug hole.
+Standard Differential, Dana 70-2U....GL-5 All TEMPS....75W-140
+SEVERE GEAR® 75W-140
+(SVOPK-EA)
+$21.39 Retail Price (USD)
+Notes: With towing package.
+Capacity: Dana 70-2U Rear 6.6 pintsFill to no more than 1/4 to 9/16 inch below fill plug hole.
+Standard Differential, Dana 70-2U....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Limited Slip Differential, Dana 70-TR....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: Model 70 axles equipped with a limited-slip differential have carbon-fiber clutch discs that do not require any friction modifier
+Standard Differential, Dana 70-TR....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 70-TR Rear 8.2 pintsFill to no more than 1/4 to 9/16 inch below fill plug hole.
+Limited Slip Differential, Dana 60-1U....GL-5* All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: Add 8 oz of friction modifier part no XL-3 P/N C8AZ-19B546A meeting Ford specification (EST-M2C118-A)
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+Recommended For: MA5
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: MERCON V Automatic Transmission Fluid
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Motorcraft High Performance DOT 3 brake fluid, P/N PM-1-C or equivalent meeting Ford specification WSS-M6C65-A1.
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

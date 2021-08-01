@@ -1,0 +1,211 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series Max-Duty Synthetic Diesel Oil 15W-40
+(DMEQT-EA)
+$12.79 Retail Price (USD)
+Heavy-Duty Synthetic Diesel Oil 15W-40
+(ADPQT-EA)
+$9.19 Retail Price (USD)
+Viscosity: 15W-40, 10W-30 (Above -18)
+SAE 15W-40 is preferred.
+5W-40 (Below -18)
+Improves cold starting.
+Capacity: 10 quarts. . . (with filter)After refill check oil level.
+Torque: 13 mm Hex - 18 ft/lbs (Oil Drain Plug)
+16 mm Hex - 62 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EAO52-EA)
+$21.15 Retail Price (USD)
+WIX Oil Filter
+(57202-EA)
+[1]
+$17.30 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(46678-EA)
+$32.15 Retail Price (USD)
+CABIN AIR FILTER
+WIX Cabin Air Filters
+(24805-EA)
+$24.01 Retail Price (USD)
+FUEL FILTER
+WIX Fuel Filters
+(33960XE-EA)
+$82.35 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+With ATInitial fill 20.3 quarts
+With MTInitial fill 20.7 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: S6-650/ML6 SL035 All TEMPS
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: S6-650/ML6 12.7 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 1000/M74....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Dexron II or III to Dexron VI per a Technical Service Bulletin from the manufacturer
+Capacity: 5 speed 1000/M74 Total Fill 12.7 quarts
+7.4 quarts Initial Fill
+For Automatic Transmission: 4L80-E-HD....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Dexron II or III to Dexron VI per a Technical Service Bulletin from the manufacturer
+Capacity: 4 speed 4L80-E-HD Total Fill 13.5 quarts
+7.7 quarts Initial Fill
+For Automatic Transmission: 4L80-E....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Dexron II or III to Dexron VI per a Technical Service Bulletin from the manufacturer
+Capacity: 4 speed 4L80-E Total Fill 13.5 quarts
+7.7 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Automotive & Light Truck Hydraulic Filters
+(57701-EA)
+[1]
+$31.73 Retail Price (USD)
+WIX Transmission Filter
+(58608-EA)
+[2]
+$41.24 Retail Price (USD)
+WIX Transmission Filter
+(58970-EA)
+[3]
+$48.40 Retail Price (USD)
+(1) Spin-On Filter; 1000/M74 (TransmissionMfrCode)
+(2) with Deep Pan; 4L80-E (TransmissionMfrCode)
+(3) with Shallow Pan; 1000/M74 (TransmissionMfrCode)
+Differential
+FRONT
+9.25 RG....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic axle lubricant P/N 89021677 , Canada P/N 89021678 meeting GM Specification 9986115.
+Capacity: 9.25 RG Front 3.6 pints
+REAR
+10.5 RG....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic axle lubricant P/N 89021677 , Canada P/N 89021678 meeting GM Specification 9986115.
+Capacity: 10.5 RG Rear 5.5 pints
+11.5 RG....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic axle lubricant P/N 89021677 , Canada P/N 89021678 meeting GM Specification 9986115.
+Capacity: 11.5 RG Rear 7.6 pints
+9.5 RG....SL136 All TEMPS....
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic axle lubricant P/N 89021677 , Canada P/N 89021678 meeting GM Specification 9986115.
+Capacity: 9.5 RG Rear 5.5 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: NVG 236/246....GLS37
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: NVG 236/246 4 pints
+Torque: 15 ft/lbs (Transfer Case Fill Plug)
+15 ft/lbs (Transfer Case Drain Plug)
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS003
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 12377967 has been replaced by P/N 19353126.
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3 P/N 12345347, spec. 9985642
+Additional AMSOIL Products
+BYPASS FILTERS
+Bypass Oil Filters
+FUEL TREATMENT
+Diesel Injector Clean
+(ADF)
+FUEL TREATMENT
+Diesel Cetane Boost
+(ACB)
+FUEL TREATMENT
+Diesel Injector Clean + Cetane Boost
+(ADS)
+FUEL TREATMENT
+Diesel Cold Flow
+(ADD)
+FUEL TREATMENT
+Diesel All-In-One
+(ADB)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+>
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

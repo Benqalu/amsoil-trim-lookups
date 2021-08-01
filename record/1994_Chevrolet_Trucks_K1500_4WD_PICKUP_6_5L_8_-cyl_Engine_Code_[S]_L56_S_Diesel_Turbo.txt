@@ -1,0 +1,246 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series Max-Duty Synthetic Diesel Oil 15W-40
+(DMEQT-EA)
+$12.79 Retail Price (USD)
+Heavy-Duty Synthetic Diesel Oil 15W-40
+(ADPQT-EA)
+$9.19 Retail Price (USD)
+Viscosity: 10W-30 (Below 0)
+15W-40 (Above -18)
+SAE 15W-40 is preferred.
+30 (Above 0)
+Capacity: 7 quarts. . . (with filter)After refill check oil level.
+Torque: 20 ft/lbs (Oil Drain Plug)
+Notes: CF-4 Preferred
+OIL FILTER
+AMSOIL Oil Filter
+(EAO24-EA)
+$21.25 Retail Price (USD)
+WIX Oil Filter
+(51060-EA)
+[1]
+$10.07 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 26.4 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: MT8 (5-SPD) GL-4 All TEMPS 75W-85
+Manual Transmission & Transaxle Gear Lube 75W-90
+(MTGPK-EA)
+$21.29 Retail Price (USD)
+Notes: Synthetic gear oil, GM P/N 12346190 or equivalent.
+Capacity: MT8 (5-SPD) 8 pints
+Torque: 44 ft/lbs (Manual Transmission Drain Plug)
+44 ft/lbs (Manual Transmission Fill Plug)
+For Manual Transmission: NV3500/MG5....GLS31 All TEMPS....
+Manual Synchromesh Transmission Fluid 5W-30
+(MTFQT-EA)
+$17.39 Retail Price (USD)
+Capacity: NV3500/MG5 4.2 pintsApproximate, fill until level with bottom of fill plug.
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 4L80-E....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Dexron II or III to Dexron VI per a Technical Service Bulletin from the manufacturer
+Capacity: 4 speed 4L80-E Total Fill 13.5 quarts
+5 quarts Initial Fill
+For Automatic Transmission: 4L60-E....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Dexron II or III to Dexron VI per a Technical Service Bulletin from the manufacturer
+Capacity: 4 speed 4L60-E Total Fill 11.2 quarts
+5 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Transmission Filter
+(58608-EA)
+[1]
+$41.24 Retail Price (USD)
+WIX Transmission Filter
+(58836-EA)
+[2]
+$34.13 Retail Price (USD)
+WIX Transmission Filter
+(58847-EA)
+[3]
+$34.04 Retail Price (USD)
+WIX Transmission Filter
+(58904-EA)
+[4]
+$29.24 Retail Price (USD)
+(1) without Pan Gasket; with Deep Pan; 4L80-E (TransmissionMfrCode)
+(2) Includes Pan Gasket; with Shallow Pan; 4L80-E (TransmissionMfrCode)
+(3) with Deep Pan; 4L60-E (TransmissionMfrCode)
+(4) with Shallow Pan; 4L60-E (TransmissionMfrCode)
+Differential
+FRONT
+GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Front 3.6 pints
+Notes: In cold climates when excessive shift effort is required to shift into 4WD GM part no. 12345836 or equivalent may be used in front differential.
+REAR
+10.5 RG W/O Dana....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Capacity: 10.5 RG With O Dana Rear 7.2 pints
+W/ 8.5, 8.6 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Capacity: With 8.5, 8.6 RG Rear 4.2 pints
+W/ 9.5 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity:
+Capacity: With 9.5 RG Rear 5.5 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: BW1370/4401....GLS37
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: BW1370/4401 3.2 pintsIdentification: check tag on case.
+For Transfer Case: BW4470....GLS37
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: BW4470 6.6 pintsIdentification: check tag on case.
+For Transfer Case: NP241/243....GLS37
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: NP241/243 4.4 pintsIdentification: check tag on case.
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS003
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 12377967 has been replaced by P/N 19353126.
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 12377967 has been replaced by P/N 19353126.
+Additional AMSOIL Products
+BYPASS FILTERS
+Bypass Oil Filters
+FUEL TREATMENT
+Diesel Injector Clean
+(ADF)
+FUEL TREATMENT
+Diesel Cetane Boost
+(ACB)
+FUEL TREATMENT
+Diesel Injector Clean + Cetane Boost
+(ADS)
+FUEL TREATMENT
+Diesel Cold Flow
+(ADD)
+FUEL TREATMENT
+Diesel All-In-One
+(ADB)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+>
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

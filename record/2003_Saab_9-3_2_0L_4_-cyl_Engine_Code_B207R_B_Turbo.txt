@@ -1,0 +1,82 @@
+Engine
+Due to tendencies of this engine to form sludge, drain intervals should not be extended beyond OEM recommendations. Read the AMSOIL Technical Services Bulleting by clicking on the following link: TSB-Using AMSOIL in Engines Known to Sludge
+ENGINE OIL
+SIGNATURE
+Signature Series 0W-30 Synthetic Motor Oil
+(AZOQT-EA)
+$14.19 Retail Price (USD)
+Viscosity: 0W-30, 0W-40, 5W-30, 5W-40 (All TEMPS)
+Capacity: 6.3 quarts. . . (with filter)After refill check oil level.
+Torque: 19 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K03-EA)
+[1] [2]
+$20.85 Retail Price (USD)
+WIX Oil Filter
+(51348-EA)
+[3]
+$9.86 Retail Price (USD)
+WIX Oil Filter
+(57082-EA)
+[3]
+$12.00 Retail Price (USD)
+(1) Arc (SubModel); Sedan (BodyType)
+(2) Vector (SubModel); Sedan (BodyType)
+(3) Manufacturer OE Recommended Oil Change Intervals
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 7.9 quarts
+
+
+
+
+
+
+
+
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

@@ -1,0 +1,163 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-20 Synthetic Motor Oil
+(ALMQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-20 Synthetic Motor Oil
+(XLMQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-20 Synthetic Motor Oil
+(OEMQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-20 (All TEMPS)
+Capacity: 4.5 quarts. . . (with filter)After refill check oil level.
+Torque: 29 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K13-EA)
+$19.90 Retail Price (USD)
+WIX Oil Filter
+(51356-EA)
+[1] [2]
+$9.83 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals; Base (SubModel)
+(2) Manufacturer OE Recommended Oil Change Intervals; Red Line (SubModel)
+AIR FILTER
+WIX Air Filter
+(46902-EA)
+[1] [2]
+$29.04 Retail Price (USD)
+(1) Base (SubModel)
+(2) Red Line (SubModel)
+CABIN AIR FILTER
+WIX Cabin Air Filters
+(24872-EA)
+[1] [2]
+$28.95 Retail Price (USD)
+(1) Base (SubModel)
+(2) Red Line (SubModel)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+Initial fill 9.7 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: MG3 (5-SPD)....GLS37 All TEMPS....
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: MG3 (5-SPD) 3.6 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: MJ8....SL040
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 3.9 quarts Initial Fill
+5 speed MJ8 Total Fill 8.6 quarts
+For Automatic Transmission: VT25-E....VTF13
+Synthetic CVT Fluid
+(CVTQT-EA)
+$15.49 Retail Price (USD)
+Notes: Use Variable Transmission Fluid, Saturn P/N 22688912. Every 50,000 miles add Variable Transmission Fluid Additive P/N 22697447, or when Variable Transmission Fluid is changed.
+Capacity: 7 quarts Initial Fill
+VT25-E Total Fill 8.5 quarts
+For Automatic Transmission: MJ7....SL040
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 4.2 quarts Initial Fill
+5 speed MJ7 Total Fill 9.1 quarts
+TRANSMISSION FILTER
+No recommendations available
+Differential
+REAR
+Drive Module....SL034 All TEMPS....
+No recommendations available
+Capacity: Rear Drive Module Rear 1.7 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: NVG900....SL034
+No recommendations available
+Capacity: NVG900 1.1 pints
+For Transfer Case: MJ8....SL136
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+Notes: Use synthetic axle lubricant P/N 88900401 which replaces previously recommended synthetic lubricant P/N 12378261 meeting GM Specification 9986115.
+Capacity: MJ8 0.8 pints
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS004
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)
