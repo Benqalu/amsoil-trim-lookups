@@ -1,0 +1,385 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-30 Synthetic Motor Oil
+(ASLQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-30 Synthetic Motor Oil
+(XLFQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-30 Synthetic Motor Oil
+(OEFQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 5W-30 (All TEMPS)
+Capacity: 6 quarts. . . (with filter)When refilling, remove dipstick to provide adequate venting and allow oil to flow into crankcase. After refill, check oil level. Top off to proper level as needed.
+Torque: 15-25 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EAO15-EA)
+$21.05 Retail Price (USD)
+WIX Oil Filter
+(51515-EA)
+[1]
+$10.09 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(46174-EA)
+$17.05 Retail Price (USD)
+FUEL FILTER
+WIX Fuel Filters
+(33097-EA)
+$16.98 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+With ACInitial fill 13.7 quarts
+With O ACInitial fill 13.2 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: T-18 (4-SPD)....EP All TEMPS....80W
+No recommendations available
+Notes: Standard Transmission Lube, meeting Ford specification ESP-M2C83-C.
+Capacity: T-18 (4-SPD) 7 pints
+For Manual Transmission: R2 (5-SPD)....MA All TEMPS....
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: R2 (5-SPD) 7.6 pints
+For Manual Transmission: S5-42 (5-SPD)....MA All TEMPS....
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Capacity: S5-42 (5-SPD) 6.8 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: AOD....MA5
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Notes: This specification has been updated from Mercon to Mercon V per TSB 06-14-4
+Capacity: 4 speed AOD Total Fill 12.3 quarts
+3 quarts Initial Fill
+For Automatic Transmission: E4OD (RWD)....MA5
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Notes: This specification has been updated from Mercon to Mercon V per TSB 06-14-4
+Capacity: 4 speed E4OD (RWD) Total Fill 15.6 quarts
+8.5 quarts Initial Fill
+For Automatic Transmission: E4OD (4WD)....MA5
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Notes: This specification has been updated from Mercon to Mercon V per TSB 06-14-4
+Capacity: 4 speed E4OD (4WD) Total Fill 16.2 quarts
+8.5 quarts Initial Fill
+For Automatic Transmission: C6....MA5
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Torque-Drive® Synthetic Automatic Transmission Fluid
+(ATD1G-EA)
+$62.79 Retail Price (USD)
+Notes: This specification has been updated from Mercon to Mercon V per TSB 06-14-4
+Capacity: 3 speed C6 Total Fill 13.5 quarts
+5.9 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Transmission Filter
+(58840-EA)
+[1]
+$34.03 Retail Price (USD)
+WIX Transmission Filter
+(58841-EA)
+[2]
+$33.97 Retail Price (USD)
+WIX Transmission Filter
+(58968-EA)
+[3]
+$48.51 Retail Price (USD)
+(1) Trans Mfr Code: 5R55E, Drive Type: 2WD
+(2) Trans Mfr Code: 5R55E; 4WD (DriveType)
+(3) 4WD (DriveType); E4OD (TransmissionMfrCode)
+Differential
+FRONT
+Dana 44....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 44 Front 3.6 pints
+Dana 50....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 50 Front 3.8 pints
+Dana 60....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 60 Front 5.9 pints
+REAR
+Standard Differential, Dana 60-IU....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Standard Differential, Dana 70 HD....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Standard Differential, Dana 70-2U....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Standard Differential, Dana 80....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Standard Differential, W/ 10.25 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Standard Differential, W/ 8.8 or 9 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Limited Slip Differential, Dana 60-IU....GL-5* All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 60-IU Rear 6.3 pints
+Limited Slip Differential, Dana 70 HD....GL-5* All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 70 HD Rear 7.4 pints
+Limited Slip Differential, Dana 70-2U....GL-5* All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 70-2U Rear 6.6 pints
+Limited Slip Differential, Dana 80....GL-5* All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Dana 80 Rear 8.2 pints
+Limited Slip Differential, W/ 10.25 RG....GL-5* All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: With 10.25 RG Rear 7.4 pints
+Limited Slip Differential, W/ 8.8 or 9 RG....GL-5* All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: With 8.8 or 9 RG Rear 5.5 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: Warner 1345....MLV
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Motorcraft P/N XL-12 to Mercon LV.
+Capacity: Warner 1345 6.3 pints
+For Transfer Case: Warner 1356....MLV
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Motorcraft P/N XL-12 to Mercon LV.
+Capacity: Warner 1356 4 pints
+Other Fluids
+POWER STEERING FLUID
+Recommended For: FA
+Super Shift® Racing Transmission Fluid SAE 10W
+(ARTQT-EA)
+$15.49 Retail Price (USD)
+Notes: Automatic Transmission Fluid, Type-F
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Motorcraft High Performance DOT 3 brake fluid, P/N PM-1-C or equivalent meeting Ford specification WSS-M6C65-A1.
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

@@ -1,0 +1,176 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 10W-30 Synthetic Motor Oil
+(ATMQT-EA)
+$14.19 Retail Price (USD)
+XL 10W-30 Synthetic Motor Oil
+(XLTQT-EA)
+$11.19 Retail Price (USD)
+OE 10W-30 Synthetic Motor Oil
+(OETQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 10W-30 (Above -25)
+SAE 10W-30 is preferred.
+5W-30 (Below 0)
+Capacity: 5 quarts. . . (with filter)After refill check oil level.
+Torque: 22-30 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EA15K13-EA)
+$19.90 Retail Price (USD)
+WIX Oil Filter
+(51356-EA)
+[1]
+$9.83 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+With MTInitial fill 10 quarts
+With ATInitial fill 10.6 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+No recommendations available
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: R4A-EL....AF3
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 4 speed R4A-EL Total Fill 9.1 quarts
+4.2 quarts Initial Fill
+For Automatic Transmission: N4A-HL....AF3
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 4 speed N4A-HL Total Fill 9.1 quarts
+4.2 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Transmission Filter
+(58906-EA)
+[1]
+$48.18 Retail Price (USD)
+(1) 4WD (DriveType)
+Differential
+FRONT
+GL-5 Above -18....90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Front 3.6 pints
+GL-5 Below -18....80W
+No recommendations available
+Capacity:
+REAR
+GL-5 Above -18....90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Capacity: Rear 3.2 pints
+GL-5 Below -18....80W
+No recommendations available
+Capacity:
+Transfer Case
+TRANSFER CASE LUBRICANT
+For Transfer Case: U/K TRC....GL-4
+Manual Transmission & Transaxle Gear Lube 75W-90
+(MTGPK-EA)
+$21.29 Retail Price (USD)
+Capacity: U/K TRC 3.2 pintsTransfer Case check plug is separate from the fill plug.
+For Transfer Case: U/K TRC....GL-4
+Manual Transmission & Transaxle Gear Lube 75W-90
+(MTGPK-EA)
+$21.29 Retail Price (USD)
+Capacity: U/K TRC 3.2 pintsTransfer Case check plug is separate from the fill plug.
+Other Fluids
+POWER STEERING FLUID
+Recommended For: AF2
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: Power steering: Lubricant recommendation option 2
+Recommended For: MA
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: Power steering: Lubricant recommendation option 1
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3
+CLUTCH FLUID
+No recommendations available
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

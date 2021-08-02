@@ -1,0 +1,199 @@
+Engine
+ENGINE OIL
+SAE 5W-40 MS Synthetic European Motor Oil
+(AFLQT-EA)
+$13.09 Retail Price (USD)
+SAE 5W-40 FS Synthetic European Motor Oil
+(EFMQT-EA)
+$10.19 Retail Price (USD)
+SAE 0W-40 FS Synthetic European Motor Oil
+(EFOQT-EA)
+$12.59 Retail Price (USD)
+Viscosity: 0W-40 (All TEMPS)
+5W-40, 5W-50 (Above -25)
+Capacity: 9.9 quarts. . . (with filter)Add 6.1 liters (6.5 qt). Run the engine at idle and add another 3.0 liters (3.2 qt). With engine warm and running check the reservoir dipstick. Do not fill to MAX level. Oil level must be between the MIN and MAX gradients. Draining time is 20 minutes.
+Torque: 37 ft/lbs (Oil Drain Plug) Oil tank drain, 37 foot pounds. When changing oil, remove crankcase and oil tank drain plugs
+OIL FILTER
+MANN-FILTERS Oil Filters
+(W94029-EA)
+$16.53 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+<IF> Air cooled engine
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: G50/05 (AWD)....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G50/05 (AWD) 8 pints
+For Manual Transmission: G50/05 (RWD)....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G50/05 (RWD) 7.6 pints
+For Manual Transmission: G50/10 (AWD)....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G50/10 (AWD) 8 pints
+For Manual Transmission: G50/10 (RWD) GL-5 All TEMPS 75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G50/10 (RWD) 7.6 pints
+For Manual Transmission: G64/00 (AWD)....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G64/00 (AWD) 8 pints
+For Manual Transmission: G64/00 (RWD) GL-5 All TEMPS 75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Capacity: G64/00 (RWD) 7.6 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: 4HP22HL....AF3
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Capacity: 4 speed 4HP22HL Total Fill 9.5 quarts
+3.2 quarts Initial Fill
+TRANSMISSION FILTER
+No recommendations available
+Differential
+FRONT
+AWD....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Notes: Front differential is for 4WD models only.
+Capacity: AWD Front 2.5 pintsFront differential is for 4WD models only.
+REAR
+W/ AT....GL-5 All TEMPS....75W-90
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+Notes: Final drive for Automatic transmission only.
+Capacity: With AT Rear 1.9 pintsFinal drive for Automatic transmission only.
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+Recommended For: AF3
+SIGNATURE
+Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid
+(ATFPK-EA)
+$18.09 Retail Price (USD)
+OE Multi-Vehicle Synthetic Automatic Transmission Fluid
+(OTFQT-EA)
+$10.59 Retail Price (USD)
+Notes: DEXRON-III Automatic Transmission Fluid
+BRAKE FLUID
+Recommended For: HBH
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 4 , TYPE 200
+CLUTCH FLUID
+Recommended For: HBH
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 4 TYPE 200
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)

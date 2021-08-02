@@ -1,0 +1,220 @@
+Engine
+ENGINE OIL
+SIGNATURE
+Signature Series 5W-30 Synthetic Motor Oil
+(ASLQT-EA)
+$14.19 Retail Price (USD)
+XL 5W-30 Synthetic Motor Oil
+(XLFQT-EA)
+$11.19 Retail Price (USD)
+OE 5W-30 Synthetic Motor Oil
+(OEFQT-EA)
+$8.69 Retail Price (USD)
+Viscosity: 30 (Above 4)
+Use only if the other recommended viscosities are not available.
+5W-30 (Below 16)
+Capacity: 8 quarts. . . (with filter)After refill check oil level.
+Torque: 20 ft/lbs (Oil Drain Plug)
+OIL FILTER
+AMSOIL Oil Filter
+(EAO24-EA)
+$21.25 Retail Price (USD)
+WIX Oil Filter
+(51061-EA)
+[1]
+$12.48 Retail Price (USD)
+(1) Manufacturer OE Recommended Oil Change Intervals
+AIR FILTER
+WIX Air Filter
+(42098-EA)
+[1]
+$15.07 Retail Price (USD)
+(1) 3 1/2 Inch Tall
+FUEL FILTER
+WIX Fuel Filters
+(33481-EA)
+$21.70 Retail Price (USD)
+COOLANT
+Passenger Car & Light Truck Antifreeze & Coolant
+(ANTPC1G-EA)
+$23.99 Retail Price (USD)
+Low Toxicity Antifreeze and Engine Coolant
+(ANT1G-EA)
+$42.49 Retail Price (USD)
+With O ACInitial fill 23.2 quarts
+With ACInitial fill 24.8 quarts
+Transmission
+MANUAL TRANSMISSION FLUID
+For Manual Transmission: SM465/M20....GLS31 All TEMPS....
+Manual Synchromesh Transmission Fluid 5W-30
+(MTFQT-EA)
+$17.39 Retail Price (USD)
+Notes: Original recommendation of GM P/N 12345577 has been superseded with GM P/N 12345349.
+Capacity: SM465/M20 8.5 pints
+AUTOMATIC TRANSMISSION FLUID
+For Automatic Transmission: THM400....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Dexron II or III to Dexron VI per a Technical Service Bulletin from the manufacturer
+Capacity: 3 speed THM400 Total Fill 10.6 quarts
+4.3 quarts Initial Fill
+For Automatic Transmission: 4L60....AF6
+SIGNATURE
+Signature Series Fuel-Efficient Synthetic Automatic Transmission Fluid
+(ATLPK-EA)
+$18.09 Retail Price (USD)
+OE Fuel-Efficient Synthetic Automatic Transmission Fluid
+(OTLQT-EA)
+$10.59 Retail Price (USD)
+Notes: This specification has been updated from Dexron II or III to Dexron VI per a Technical Service Bulletin from the manufacturer
+Capacity: 4 speed 4L60 Total Fill 11.5 quarts
+5 quarts Initial Fill
+TRANSMISSION FILTER
+WIX Transmission Filter
+(58881-EA)
+[1]
+$14.35 Retail Price (USD)
+WIX Transmission Filter
+(58897-EA)
+[2]
+$34.03 Retail Price (USD)
+(1) 3 speed (TransmissionNumSpeeds)
+(2) 4 speed (TransmissionNumSpeeds)
+Differential
+REAR
+W/ 10.5 RG Chev....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: In Canada use 80W.
+Capacity: With 10.5 RG Chev Rear 7.2 pints
+W/ 10.5 RG Dana....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: In Canada use 80W.
+Capacity: With 10.5 RG Dana Rear 5.5 pints
+W/ 12.25 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: In Canada use 80W.
+Capacity: With 12.25 RG Rear 13.9 pints
+W/ 8.5 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: In Canada use 80W.
+Capacity: With 8.5 RG Rear 4.2 pints
+W/ 9.5 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: In Canada use 80W.
+Capacity: With 9.5 RG Rear 5.5 pints
+W/ 9.75 RG....GL-5 All TEMPS....80W-90
+SEVERE GEAR® 80W-90
+(AGLPK-EA)
+$16.39 Retail Price (USD)
+SEVERE GEAR® 75W-90
+(SVGPK-EA)
+$19.19 Retail Price (USD)
+SEVERE GEAR® 75W-110
+(SVTPK-EA)
+$21.39 Retail Price (USD)
+Notes: In Canada use 80W.
+Capacity: With 9.75 RG Rear 5.9 pints
+Transfer Case
+TRANSFER CASE LUBRICANT
+No recommendations available
+Other Fluids
+POWER STEERING FLUID
+Recommended For: PS003
+Multi-Vehicle Synthetic Power Steering Fluid
+(PSFCN-EA)
+$9.59 Retail Price (USD)
+BRAKE FLUID
+Recommended For: HB
+DOT 3 and DOT 4 Synthetic Brake Fluid
+(BFLVCN-EA)
+$8.59 Retail Price (USD)
+Notes: Hydraulic Brake Fluid, DOT 3. Original recommendation P/N 12377967 has been replaced by P/N 19353126.
+CLUTCH FLUID
+Recommended For: HB
+No recommendations available
+Notes: Hydraulic Brake Fluid, DOT 3 P/N 12345347, spec. 9985642
+Additional AMSOIL Products
+FUEL TREATMENT
+P.i. Performance Improver Gasoline Additive
+(API)
+FUEL TREATMENT
+Upper Cylinder Lubricant
+(UCL)
+FLUSH
+Engine and Transmission Flush
+(FLSH)
+GREASE
+AMSOIL Synthetic Multi-Purpose Grease NLGI #2
+(GLCCR)
+METAL PROTECTANT
+Heavy-Duty Metal Protector
+(AMH)
+METAL PROTECTANT
+AMSOIL Metal Protector
+(AMP)
+NONMETAL PROTECTANT
+AMSOIL Silicone Spray
+(ALSSP)
+ENGINE CLEANER
+AMSOIL Heavy-Duty Degreaser
+(ADG)
+WATERLESS CLEANER
+AMSOIL Miracle Wash®
+(AMW)
+CLEANER
+Brake and Parts Cleaner
+(BPC)
+CLEANER
+Mudslinger®
+(AMSSC)
+CLEANER
+Engine Degreaser
+(AEDSC)
+CLEANER
+Glass Cleaner
+(AGCSC)
