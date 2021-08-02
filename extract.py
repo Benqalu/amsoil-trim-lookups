@@ -1,3 +1,12 @@
+# Viscosity: 0W-30, 0W-40 (All TEMPS)
+# 10W-30, 10W-40, 10W-50, 10W-60 (Above -20)
+# 15W-30, 15W-40, 15W-50 (Above -15)
+# 20W-40, 20W-50 (Above -5)
+# 5W-30, 5W-40, 5W-50 (Above -25)
+# Capacity: 8.5 quarts. . . (with filter)After refill check oil level.
+# Torque: 22 ft/lbs (Oil Drain Plug)
+
+
 import os, re
 import pandas as pd
 
@@ -18,17 +27,21 @@ for line in f:
 	content=''.join(g.readlines())
 	g.close()
 
-	res_v=re.findall('Viscosity:\s*([^\n]+)\n',content)
-	res_c=re.findall('Capacity:\s*([^\n]+)\n',content)
-	if len(res_v)==0:
-		res_v='N/A'
+	viscosity=re.findall(r'Viscosity:\s*(.+)',content)
+	# capacity=re.findall('Capacity:((.|\r|\n)+)OIL FILTER')
+	capacity=re.findall(r'[0-9\.]+ quarts\. \. \. .+',content)
+
+	if len(viscosity)>0:
+		viscosity=viscosity[0].strip()
 	else:
-		res_v=res_v[0]
-	if len(res_c)==0:
-		res_c='N/A'
+		viscosity=''
+
+	if len(capacity)>0:
+		capacity='\n'.join(capacity)
 	else:
-		res_c=res_c[0]
-	rec[-1]=list(rec[-1])+[res_v,res_c]
+		capacity=''
+
+	rec[-1]=list(rec[-1])+[viscosity,capacity]
 
 f.close()
 
